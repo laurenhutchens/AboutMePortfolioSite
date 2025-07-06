@@ -1,0 +1,18 @@
+h1 {
+    font-size: 48px;
+    color: #8B2E3C;
+    background-color: #BFA2DB;
+    text-align: left;
+    font-weight: normal;
+    border: 3px solid #A9A9A9;
+}
+body {
+    font-family: 'Playfair Display', serif;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+p.clara {
+    color: #E6C36F;
+    background-color: #F3EAFD;
+}
