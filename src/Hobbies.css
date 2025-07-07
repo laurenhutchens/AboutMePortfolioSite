@@ -1,6 +1,0 @@
-/* add a border to the <article> element so i can see its boundaries and ensure all nested elements are properly indented */
-article {
-      border: 2px solid #333;       /* dark border to show boundaries */
-      padding: 16px;                /* space inside the article */
-      margin: 20px auto;            /* spacing outside the article */
-}
